@@ -1,3 +1,5 @@
 @echo off
-docker run -it  --volume ${PWD}//npm:/root/npm linuxnpm
-
+echo ********************************************************
+echo Executez : 
+echo docker run -it  --volume ${PWD}//npm:/root/npm linuxnpm
+echo ********************************************************
